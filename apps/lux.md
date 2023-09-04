@@ -11,12 +11,8 @@ screenshots:
 - https://kfj.bitbucket.io/lux_screenshot_2.png
 
 authors:
-  - name: kfj
-    url: https://bitbucket.org/kfj
 
 links:
-  - type: Download
-    url: https://bitbucket.org/kfj/pv/downloads
 
 desktop:
   Desktop Entry:
